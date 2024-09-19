@@ -7,7 +7,7 @@ These projects are better suited for personal experimentation and exploration.
 
 ## Repos
 
-- [Awesome HPMicro: hp micro-rs/awesome-hpmicro](https://github.com/hpmicro-rs/awesome-hpmicro)
+- [Awesome HPMicro: hpmicro-rs/awesome-hpmicro](https://github.com/hpmicro-rs/awesome-hpmicro)
 - MCU metadata and the all-in-one PAC crate: [andelf/hpm-data](https://github.com/andelf/hpm-data)
   - Generated pac crate: [hpmicro-rs/hpm-metapac](https://github.com/hpmicro-rs/hpm-metapac)
 
