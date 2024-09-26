@@ -8,8 +8,10 @@ These projects are better suited for personal experimentation and exploration.
 ## Repos
 
 - [Awesome HPMicro: hpmicro-rs/awesome-hpmicro](https://github.com/hpmicro-rs/awesome-hpmicro)
-- MCU metadata and the all-in-one PAC crate: [andelf/hpm-data](https://github.com/andelf/hpm-data)
+- MCU metadata and the all-in-one PAC crate: [andelf/hpm-data](https://github.com/andelf/hpm-data) (Transferred to @hpmicro)
   - Generated pac crate: [hpmicro-rs/hpm-metapac](https://github.com/hpmicro-rs/hpm-metapac)
+- HAL driver crate with Embassy support [hpmicro/hpm-hal](https://github.com/hpmicro/hpm-hal) (Transferred to @hpmicro)
+- Andes RISC-V support [hpmicro-rs/andes-riscv](https://github.com/hpmicro-rs/andes-riscv)
 
 ## Contribution guidelines 🌈
 
